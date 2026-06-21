@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片视频整理"
+  short_description: "按时间归档照片和视频，安全去重、处理同名并批量重命名"
+  default_prompt: "使用 -video-organizer 按时间戳整理我的照片和视频库。"
