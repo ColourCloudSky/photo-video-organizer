@@ -78,7 +78,7 @@ photo-video-organizer/
 也可以说：
 
 ```text
-帮我用照片视频整理 skill，把 /Volumes/sky/相册/旭淼 按时间归档并重命名
+帮我用照片视频整理 skill，把 /Volumes/sky/相册/xx 按时间归档并重命名
 ```
 
 ## 命令行用法
