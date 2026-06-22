@@ -187,6 +187,3 @@ moved_sidecars=0
 errors=0
 ```
 
-## 许可证
-
-按你的仓库许可证使用。如果仓库还没有许可证，建议在上传 GitHub 前补充一个 `LICENSE` 文件。
